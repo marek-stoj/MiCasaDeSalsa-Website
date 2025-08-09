@@ -4,4 +4,4 @@ set -e
 
 clear
 
-cp -R '/d/Projects/MiCasaDeSalsa/micasadesalsa/public/' ./
+cp -R "/d/Projects/MiCasaDeSalsa/micasadesalsa/public/." ./
